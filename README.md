@@ -2,7 +2,7 @@
 
 ## [Instructions](https://github.com/Pelino-Courses/pyfun-challenges-2025/blob/main/INSTRUCTIONS.md)
 
-## Question 1: Package Management (Easy)
+## Question 1: Package Management
 **Scenario:** You're starting a new project that needs to handle date manipulations. Rather than writing date arithmetic from scratch, you need to utilize an existing package.
 
 **Task:** Write Python code that:
@@ -11,7 +11,7 @@
 3. Includes proper docstrings with examples
 4. Handles potential errors when invalid date formats are provided
 
-## Question 2: Custom Functions with Default Arguments (Easy)
+## Question 2: Custom Functions with Default Arguments
 **Scenario:** You're building a text processing utility for your team. You need a function that formats text by adding prefixes, suffixes, and applying various transformations.
 
 **Task:** Create a function called `format_text` that:
@@ -25,7 +25,7 @@
 4. Includes comprehensive docstrings with examples
 5. Validates inputs and raises appropriate exceptions with custom error messages
 
-## Question 3: Functions with Arbitrary Arguments (Medium)
+## Question 3: Functions with Arbitrary Arguments
 **Scenario:** You're creating a command-line calculator that needs to handle an arbitrary number of inputs and operations.
 
 **Task:** Develop a set of functions that:
@@ -36,7 +36,7 @@
 5. Features comprehensive docstrings explaining usage
 6. Creates a helper function using `*args` and `**kwargs` to process the inputs
 
-## Question 4: Basic OOP Implementation (Medium)
+## Question 4: Basic OOP Implementation
 **Scenario:** You're designing a simple inventory management system for a small shop. The system needs to track products, their quantities, and prices.
 
 **Task:** Create a class structure that:
@@ -49,7 +49,7 @@
 4. Features comprehensive docstrings for the class and its methods
 5. Implements appropriate error handling
 
-## Question 5: Inheritance and Method Overriding (Hard)
+## Question 5: Inheritance and Method Overriding
 **Scenario:** You're building a library of geometric shapes for a graphics application. You need to create a hierarchy of shapes with shared and specific behaviors.
 
 **Task:** Develop a class hierarchy that:
@@ -61,7 +61,7 @@
 6. Uses class methods where appropriate
 7. Documents all classes and methods with comprehensive docstrings
 
-## Question 6: Advanced OOP with Multiple Inheritance and Custom Iterators (Expert)
+## Question 6: Advanced OOP with Multiple Inheritance and Custom Iterators
 **Scenario:** You're developing a simulation system for a university that needs to track students, courses, and enrollments. The system needs to handle complex relationships and provide various ways to access and iterate through the data.
 
 **Task:** Create a comprehensive OOP solution that:
