@@ -1,6 +1,6 @@
 # pyfun-challenges-2025
 
-## [https://github.com/Pelino-Courses/pyfun-challenges-2025/blob/main/INSTRUCTIONS.md](Instructions)
+## [Instructions](https://github.com/Pelino-Courses/pyfun-challenges-2025/blob/main/INSTRUCTIONS.md)
 
 ## Question 1: Package Management (Easy)
 **Scenario:** You're starting a new project that needs to handle date manipulations. Rather than writing date arithmetic from scratch, you need to utilize an existing package.
